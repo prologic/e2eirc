@@ -1,6 +1,8 @@
 package main
 
-import "github.com/Novus0rdo/e2eirc/e2eirc"
+import (
+	"github.com/Novus0rdo/e2eirc"
+)
 
 func main() {
 	e2eirc.PrintBanner()

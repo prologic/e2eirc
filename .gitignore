@@ -1,0 +1,5 @@
+*~
+*.bak
+
+/e2eirc
+/cmd/e2eirc/e2eirc
